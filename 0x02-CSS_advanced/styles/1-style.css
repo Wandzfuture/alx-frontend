@@ -1,0 +1,4 @@
+/* This CSS file controls the styling of the html element */
+html {
+  scroll-behavior: smooth;
+}
