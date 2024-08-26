@@ -325,7 +325,6 @@ ul.row {
     padding: var(--footer-padding);
 }
 
-/* Styles for card-work */
 .card-work .card-outer {
     position: relative;
     overflow: hidden;
@@ -387,7 +386,6 @@ ul.row {
     transform: scale(0.95);
 }
 
-/* Styles for card-testimonial */
 .card-testimonial .card-quote {
     position: relative;
 }
